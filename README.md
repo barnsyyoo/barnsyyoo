@@ -1,1 +1,1 @@
-All my repositories are at https://gitlab.com/barnsyyoo
+All my repositories are at https://gitlab.com/barnsy
